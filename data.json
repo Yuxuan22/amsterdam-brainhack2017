@@ -3,7 +3,7 @@
   "location": "Spinoza Centre, Amsterdam, Netherlands",
   "dates": "March 02-04, 2017",
   "year": "2017",
-  "background_img": "https://github.com/piloubazin/brainhack2017/tree/master/img/bhg17-background.png",
+  "background_img": "https://piloubazin.github.io/amsterdam-brainhack2017.github.io/img/bhg17-background.png",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
   "registration_link":"https://www.eventbrite.nl/e/tickets-brainhack-spinoza-31994081158",
@@ -52,7 +52,7 @@
     "location_name": "The Spinoza Centre for Neuroimaging",
     "location_url":"https://www.spinozacentre.nl/",
     "google_maps_link":"https://goo.gl/maps/UbLNzaoxMjz",
-    "sponsors": [{"name": "", "url": "", "logo":""}],
+    "sponsors": [{"name": "The Spinoza Centre", "url": "https://www.spinozacentre.nl/", "logo":"https://piloubazin.github.io/amsterdam-brainhack2017.github.io/img/spinoza-logo.png"}],
     "organizers": ["Pilou Bazin", "Pieter Buur", "Serge Dumoulin"]
 
 }
