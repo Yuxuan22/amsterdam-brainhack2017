@@ -24,6 +24,7 @@ files_to_generate = [{"filename": "index.html.tmpl", "location":"./"},
 
 env = Environment(loader=FileSystemLoader('./'))
 info = load_json("data.json")
+info = info.encode('ascii', 'ignore').decode('ascii')
 
 for f in files_to_generate:
     template = env.get_template(f["filename"])
