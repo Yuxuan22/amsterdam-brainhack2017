@@ -24,11 +24,12 @@ files_to_generate = [{"filename": "index.html.tmpl", "location":"./"},
 
 env = Environment(loader=FileSystemLoader('./'))
 info = load_json("data.json")
-info = info.encode('ascii', 'ignore').decode('ascii')
 
 for f in files_to_generate:
     template = env.get_template(f["filename"])
     outfile = os.path.join(f["location"], f["filename"].replace(".tmpl",""))
     print("writing", outfile)
+    out = template.render(**info)
+    out = out.encode('utf8', 'replace')
     with open(outfile, "w") as q:
-        q.write(template.render(**info))
+        q.write(out)
