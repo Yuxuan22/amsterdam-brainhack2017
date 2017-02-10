@@ -9,7 +9,7 @@
   "registration_link":"https://www.eventbrite.nl/e/tickets-brainhack-spinoza-31994081158",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
-  "title_photo_link":"https://amsterdam-brainhack2017.github.io/img/bhg17-background.png",
+  "title_photo_link":"https://piloubazin.github.io/amsterdam-brainhack2017.github.io/img/bhg17-background.png",
   "title_photo_author": "Pilou Bazin",
   "services":[{
     "name": "Share",
@@ -27,7 +27,7 @@
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
     "details": {"costs":"35€, includes onsite breakfast, lunch, and refreshments"},
-    "schedule_background_img": "https://amsterdam-brainhack2017.github.io/img/Spinozagebouw3.jpg",
+    "schedule_background_img": "https://piloubazin.github.io/amsterdam-brainhack2017.github.io/img/Spinozagebouw3.jpg",
     "schedule":  [{"date": "Friday, March 02",
                   "times": [{"time": "9:00", "event": "Coffee and introductions"},
                             {"time": "10-11:00", "event": "Project descriptions"},
@@ -48,7 +48,7 @@
                             {"time": "13-15:00", "event": "Projects outcomes"},
                            {"time": "15-17:00", "event": "Future plans"}]}
                   ],
-    "location_logo": "https://amsterdam-brainhack2017.github.io/img/spinoza-logo.png",
+    "location_logo": "https://piloubazin.github.io/amsterdam-brainhack2017.github.io/img/spinoza-logo.png",
     "location_name": "The Spinoza Centre for Neuroimaging",
     "location_url":"https://www.spinozacentre.nl/",
     "google_maps_link":"https://goo.gl/maps/UbLNzaoxMjz",
