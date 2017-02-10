@@ -51,7 +51,7 @@
     "location_logo": "https://piloubazin.github.io/amsterdam-brainhack2017.github.io/img/spinoza-logo.png",
     "location_name": "The Spinoza Centre for Neuroimaging",
     "location_url":"https://www.spinozacentre.nl/",
-    "google_maps_link":"<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19522.53362089351!2d4.956919!3d52.292106!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c60b7c57bd2851%3A0xaf01b15b8f70304f!2sMeibergdreef+75%2C+1105+BK+Amsterdam-Zuidoost%2C+Netherlands!5e0!3m2!1sen!2sus!4v1486763187197" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>",
+    "google_maps_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19522.53362089351!2d4.956919!3d52.292106!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c60b7c57bd2851%3A0xaf01b15b8f70304f!2sMeibergdreef+75%2C+1105+BK+Amsterdam-Zuidoost%2C+Netherlands!5e0!3m2!1sen!2sus!4v1486763187197",
     "sponsors": [{"name": "The Spinoza Centre", "url": "https://www.spinozacentre.nl/", "logo":"https://piloubazin.github.io/amsterdam-brainhack2017.github.io/img/spinoza-logo.png"}],
     "organizers": ["Pilou Bazin", "Pieter Buur", "Serge Dumoulin"]
 
