@@ -6,7 +6,7 @@
   "background_img": "https://piloubazin.github.io/amsterdam-brainhack2017/img/bgbrain2.png",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "registration_link":"https://www.eventbrite.nl/e/tickets-brainhack-spinoza-31994081158",
+  "registration_link":"https://www.eventbrite.nl/e/tickets-brainhack-global-2017-amsterdam-31994081158",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
   "title_photo_link":"https://piloubazin.github.io/amsterdam-brainhack2017/img/bgbrain2.png",
@@ -48,11 +48,11 @@
                             {"time": "13-15:00", "event": "Projects outcomes"},
                            {"time": "15-17:00", "event": "Future plans"}]}
                   ],
-    "location_logo": "https://piloubazin.github.io/amsterdam-brainhack2017/img/spinoza-logo.png",
+    "location_logo": "https://piloubazin.github.io/amsterdam-brainhack2017/img/300px-Logo_spinoza_B_RGB.jpg",
     "location_name": "The Spinoza Centre for Neuroimaging",
     "location_url":"https://www.spinozacentre.nl/",
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19522.53362089351!2d4.956919!3d52.292106!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c60b7c57bd2851%3A0xaf01b15b8f70304f!2sMeibergdreef+75%2C+1105+BK+Amsterdam-Zuidoost%2C+Netherlands!5e0!3m2!1sen!2sus!4v1486763187197",
-    "sponsors": [{"name": "The Spinoza Centre", "url": "https://www.spinozacentre.nl/", "logo":"https://piloubazin.github.io/amsterdam-brainhack2017/img/spinoza-logo.png"}],
+    "sponsors": [{"name": "The Spinoza Centre", "url": "https://www.spinozacentre.nl/", "logo":"https://piloubazin.github.io/amsterdam-brainhack2017/img/300px-Logo_spinoza_A_RGB.jpg"}],
     "organizers": ["Pilou Bazin", "Pieter Buur", "Serge Dumoulin"]
 
 }
