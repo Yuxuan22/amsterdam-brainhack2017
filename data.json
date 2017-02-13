@@ -28,7 +28,7 @@
     "fa_icon": "fa-wechat"}],
     "details": {"costs":"35€, includes onsite breakfast, lunch, and refreshments"},
     "schedule_background_img": "https://piloubazin.github.io/amsterdam-brainhack2017/img/Spinozagebouw3.jpg",
-    "schedule":  [{"date": "Friday, March 02",
+    "schedule":  [{"date": "Thursday, March 02",
                   "times": [{"time": "9:00", "event": "Coffee and introductions"},
                             {"time": "10-11:00", "event": "Project descriptions"},
                             {"time": "11-13:00", "event": "Projects / hacking"},
