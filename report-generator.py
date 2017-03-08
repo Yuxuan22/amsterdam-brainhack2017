@@ -19,10 +19,10 @@ def load_json(filename):
     return data
 
 
-files_to_generate = [{"filename": "index.html.tmpl", "location":"report/"},
-                    {"filename": "css/stylish-portfolio.css.tmpl", "location": "report/"}]
+files_to_generate = [{"filename": "report-index.html.tmpl", "location":"./"},
+                    {"filename": "css/stylish-portfolio.css.tmpl", "location": "./"}]
 
-env = Environment(loader=FileSystemLoader('report/'))
+env = Environment(loader=FileSystemLoader('./'))
 info = load_json("report-data.json")
 
 for f in files_to_generate:
