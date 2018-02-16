@@ -1,8 +1,8 @@
 {
-  "title": "Brainhack Global: Amsterdam 2017",
+  "title": "Brainhack Global: Amsterdam 2018",
   "location": "Amsterdam, Netherlands",
-  "dates": "March 02-04, 2017",
-  "year": "2017",
+  "dates": "April 16-20, 2018",
+  "year": "2018",
   "background_img": "https://github.com/piloubazin/brainhack2017/tree/master/img/bhg17-background.png",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
